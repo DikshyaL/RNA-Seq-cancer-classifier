@@ -15,7 +15,7 @@ This study uses the Gene Expression Cancer RNA-Seq dataset from the UCI Machine 
 Source: https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 
 Citation:
-Fiorini, S. (2016). Gene Expression Cancer RNA-Seq Dataset. UCI Machine Learning Repository. https://doi.org/10.24432/C5R88H
+Fiorini, S. (2016). gene expression cancer RNA-Seq [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5R88H.
 
 The dataset is derived from The Cancer Genome Atlas (TCGA) RNA-Seq project.
 
